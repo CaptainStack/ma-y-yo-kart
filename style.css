@@ -7,3 +7,6 @@ div {
   width: 600px;
   margin-left: 20px;
 }
+object {
+  background-image: url('loading-splash.png');
+}
