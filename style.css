@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  flex-direction: row;
+  font-family: sans-serif;
+}
+div {
+  width: 600px;
+  margin-left: 20px;
+}
