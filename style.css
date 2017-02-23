@@ -3,10 +3,13 @@ body {
   flex-direction: row;
   font-family: sans-serif;
 }
-div {
+#guide {
   width: 600px;
   margin-left: 20px;
 }
-object {
+#game {
   background-image: url('loading-splash.png');
+  background-color: lightgrey;
+  width:  801px;
+  height: 601px;
 }
